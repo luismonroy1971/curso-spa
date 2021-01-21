@@ -14,11 +14,14 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.12.10",
+    "@types/copy-webpack-plugin": "^6.4.0",
     "babel-loader": "^8.2.2",
     "html-webpack-plugin": "^4.5.1",
     "webpack": "^4.46.0",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "copy-webpack-plugin": "^6.2.1"
+  }
 }
